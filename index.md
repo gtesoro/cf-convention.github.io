@@ -47,14 +47,7 @@ See also the links in the navigation bar at the top of this page.
 [q3]: http://cf-trac.llnl.gov/trac
 [q4]: http://www.met.reading.ac.uk/~david/cf_trac_summary.html
 [q5]: http://mailman.cgd.ucar.edu/pipermail/cf-metadata/
-[q6]: requirements-and-recommendations.html
-[q7]: compliance-checker.html
-[q8]: faq.html
-[releasedhtml]: Data/cf-conventions/cf-conventions-1.9/cf-conventions.html
-[releasedpdf]: Data/cf-conventions/cf-conventions-1.9/cf-conventions.pdf
-[workinghtml]: /cf-conventions/cf-conventions.html
-[workingpdf]: /cf-conventions/cf-conventions.pdf
-[currentnames]: Data/cf-standard-names/current/build/cf-standard-name-table.html
+[q6]: requirements-and-recommendations.htmlld/cf-standard-name-table.html
 [cfdmpaper]: https://doi.org/10.5194/gmd-10-4619-2017
 [github_discuss]: https://github.com/cf-convention/discuss/issues
 [github_conventions]: https://github.com/cf-convention/cf-conventions/issues
